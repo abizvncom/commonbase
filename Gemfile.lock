@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    commonbase (0.1.0)
+    commonbase (0.2.0)
       rails (~> 7.2)
 
 GEM
